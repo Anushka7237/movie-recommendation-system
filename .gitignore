@@ -1,0 +1,7 @@
+__pycache__
+config.py
+movies_dict.pkl
+similarity.pkl
+Dataset
+Procfile
+setup.sh
